@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A lively testimony to the living truth given forth by Robert Jeckell upon his death-bed in the presence of many eye and ear witnesses whose names are subscribed.</title>
+            <author>Jeckell, Robert, d. 1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46704</idno>
+            <idno type="STC">Wing J514</idno>
+            <idno type="STC">ESTC R26822</idno>
+            <idno type="EEBO-CITATION">09550924</idno>
+            <idno type="OCLC">ocm 09550924</idno>
+            <idno type="VID">43607</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43607)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1334:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A lively testimony to the living truth given forth by Robert Jeckell upon his death-bed in the presence of many eye and ear witnesses whose names are subscribed.</title>
+                  <author>Jeckell, Robert, d. 1676.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43607:1"/>
+            <pb facs="tcp:43607:1" rendition="simple:additions"/>
+            <p>A LIVELY TESTIMONY TO THE Living Truth, Given forth by <hi>Robert Jeckell</hi> upon his Death-bed.</p>
+            <p>In the preſence of many eye and ear Witneſſes whoſe names are ſubſcribed.</p>
+            <p>
+               <hi>Bleſſed are the dead that die in the Lord, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:43607:2"/>
+            <pb n="1" facs="tcp:43607:2"/>
+            <head>A Relation of <hi>Robert Jeckells</hi> Death, and his Teſtimony for Truth be<g ref="char:EOLhyphen"/>fore his Departure.</head>
+            <p>
+               <hi>RObert Jeckell</hi> of <hi>New-Castle upon Tine,</hi> having a deſire to come to <hi>Swarthmoore,</hi> began his Journey in company with ſeveral other Friends, and began to be ſick the ſame day that he came from home, and was ſick at ſeveral places by the way: But ſtill preſſed forward to his Journeys end, and would not be ſatisfied, to ſtay ſhort of <hi>Swarth<g ref="char:EOLhyphen"/>moore,</hi> where he came the 2d. of the 5th. month 1676. and went to his Bed preſently after he came in, where he lay ſick 9 days, and then dyed upon the 11th. of the ſame month, and made a Comfortable end, being all the time of his Sickneſs, in perfect ſenſe and memory, as may be ſeen by the following words, which were ſpo<g ref="char:EOLhyphen"/>ken by him a little before his Death.</p>
+            <p>Two days before his Death, he ſaid, <hi>Well Friends, it's the belief of my heart, that the Lord will raiſe me up, to bear a faithfull Teſtimony for God and his Truth.</hi>
+            </p>
+            <p>In the Evening before his Departure, when Friends ſtood about him, expecting him to give up, <hi>(according to the belief of his heart)</hi> he was raiſed up, by the <hi>power</hi> of the <hi>Lord,</hi> and ſpake with an audible voice as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>
+               <hi>No ſeparation like unto this, Soul ſeparated from the Body, the Spirit returning to God that gave it, and the Body to the Earth from whence it came. For great has the loving kindneſs of the Lord been unto me, not unto me only, but unto you all my dear Friends, who are faithfull unto
+<pb n="2" facs="tcp:43607:3"/>Death; I can ſpeak it to his praiſe, and unto his glory for evermore: and in it can bid you everlaſtingly farewell.</hi>
+            </p>
+            <p>
+               <hi>I have always been faithfull to the Truth, as to what was manifested, for God hath loved me from a Child.</hi> And he ſaid, ſpreading out his arms, <hi>Oh the bleſſed precious Truth is above all the World! and this is my living Teſtimony, I have to bear for the Lord and his Truth: For always I loved Truth, and preferred it before all the World; for Truth is precious, and to be valued before all things below it: Therefore oh dear Friends prize Truth, this precious Truth, for it lives for ever. Let nothing divert your minds from that ſence of Truth you have, for as that is kept too, Truth anſwers Truth in every heart.</hi>
+            </p>
+            <p>
+               <hi>As to the principle of Truth, it will reign over all; though ſtrange things may happen in this Nation, yet the Lord will crown his bleſſed Truth, and his Glory over all: Therefore all my dear Friends, be faithfull to that mani<g ref="char:EOLhyphen"/>feſtation in your own particulars, for a Profeſſion will ſtand none in ſtead, unleſs they live in the life and power thereof; for this is an everlasting Truth that will live for ever: all that feel Gods love let them prize it, for it is better then words.</hi>
+            </p>
+            <p>
+               <hi>And it was the deſire of my heart, to come and viſit my dear Friend</hi> Geo. Fox, <hi>and I am very well ſatisfied there<g ref="char:EOLhyphen"/>in; and it was the travail of my ſoul a long time before I came, and now I am come to give up all, and herein I am fully ſatisfied.</hi>
+            </p>
+            <p>At another time he ſaid, <hi>Though I was perſwaded to ſtay by the way, before I came to this place; yet this was the place where I would have been, and the place where I ſhould have been, whether I live or die.</hi>
+            </p>
+            <p>
+               <hi>And dear</hi> George, <hi>I can add nothing unto thee, for thou want'st nothtng of the good Spirit, for thou art in God and God in thee; but let us give all the praiſe and the
+<pb n="3" facs="tcp:43607:3"/>glory to God: but I pray unto God that he may preſerve thee, from all evil ſpirits.</hi>
+            </p>
+            <p>Another time <hi>G. F.</hi> ſpoke to him and ſaid, he might offer up his Spirit and Soul to the Lord, who gives breath and life to all, and takes it again; and he lifted up his hands and ſaid, <hi>The Lord is worthy of it, and I have done it. G. F.</hi> asked him if he could ſay, Thy will O God be done, in Earth as it is in Heaven; And he lifted up his hands and eyes, and chearfully <hi>ſaid he did it.</hi> And he ſaid, <hi>he had been faithfull in a Profeſſi<g ref="char:EOLhyphen"/>on to what he knew, untill the manifestation of the Truth broke forth.</hi> And his mouth was often filled with praiſes to the Lord, and ſaid, <hi>though he had had multitude of buſi<g ref="char:EOLhyphen"/>neſs, yet the Lord had carried him over all.</hi>
+            </p>
+            <p>
+               <hi>And dear Friends, dwell in love and unity together, and keep out of all jarrs, ſtrife and contention, for the Enemy lies near to draw out; And if you be divided one against another, then you will come to a loſs: Profeſſion will ſtand none in ſtead, for alas any may make a Profeſſion, but it's thoſe that live the life of Truth, and dwell in the obedience of it, that obtains the Crown. For alas a ſilly woman may ſay, Lord, Lord help me, when the ditch is before her; but the Lord doth not bid her fall into it, but there is that near that will manifeſt, and open the eye, and preſerve out of it. That Living principle of Truth, which will preſerve all that dwell in it.</hi>
+            </p>
+            <p>
+               <hi>And Friends, be ſure to continue faithfull unto the end, and be not weary in well-doing, for that is a good teſti<g ref="char:EOLhyphen"/>mony, they that continue faithfull unto the end ſhall be ſaved.</hi>
+            </p>
+            <p>At another time he ſaid, <hi>all deceit and fraud will come to nothing, I am an innocent man, and clear of all men, upon the face of the Earth.</hi>
+            </p>
+            <p>
+               <hi>If there be any bad Spirits, (that under a pretence
+<pb n="4" facs="tcp:43607:4"/>makes a Profeſſion of Truth) do take occaſion to ſpeak evil of me when I am gone, you are Living Witneſſes, and can bear a Living Testimony,</hi> (ſpeaking to <hi>Bridget Pin<g ref="char:EOLhyphen"/>dar</hi> and <hi>Elizabeth Hopper</hi>) <hi>that I am an Innocent man, and that the Lord hath cleared me, and I lie down my head in peace.</hi>
+            </p>
+            <p>
+               <hi>And</hi> Bridget <hi>and</hi> Elizabeth, <hi>you are my Neighbours: As to my dear Wife, I give her freely up to the Lord, for ſhe loved the Lord, and he will love her; and I deſire ſhe may be kept faithfull to the Truth in all things; and that you may adviſe her, and be aſſistant to her <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what you can. And I have often told my dear Wife, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> what we have in outward things, it was the Lords firſt before it was ours, and in that I deſire that ſhe may ſerve the Truth to the end of her days.</hi>
+            </p>
+            <p>
+               <hi>And I deſire thoſe Friends, whom I have intrusted in my Will,</hi> (naming them all) <hi>to ſee my Will truly per<g ref="char:EOLhyphen"/>formed, and to be faithfull to their Trust, that ſo they may diſcharge a good Conſcience in the ſight of the Lord; And that they may ſee all things cleared and diſcharged, for I am well able to diſcharge thoſe things.</hi>
+            </p>
+            <p>
+               <hi>And now my dear Friends, in the everlaſting power of God, I commit you all to the Lord, to be preſerved and kept, in his everlaſting power, and bid you all everlast<g ref="char:EOLhyphen"/>ingly, yea everlastingly farewell.</hi>
+            </p>
+            <p>
+               <hi>All is done: And to the Lord I leave you all, unto him I commit you all. Farewell.</hi>
+            </p>
+            <p>
+               <hi>Let me go hence in peace, for I ſhall go hence and be no more ſeen in mutability.</hi>
+            </p>
+            <p>About two hours before he died, <hi>G. F.</hi> took him by the hand, and asked him if he was ſatisfied of his ſeeing him; And he lifted up his eyes, and with a gladneſs of heart and ſmilingly he praiſed the Lord, <hi>And ſaid that his Comfort flowed in as a floud.</hi> And <hi>G. F.</hi> asked him,
+<pb n="5" facs="tcp:43607:4"/>what he ſaid; And he ſpoke thoſe words over again. And <hi>G. F.</hi> ſaid unto him, thy everlaſting peace and reſt is in Chriſt, that bruiſes the head of the Serpent, who is over all from Everlaſting to Everlaſting, who is the Everlaſt<g ref="char:EOLhyphen"/>ing food of Life, for thy Soul and Spirit, and in him thou wilt lay down thy head in peace, who is the Crown of life: And many other words he ſpoke to <hi>G. F.</hi> and <hi>G. F.</hi> to him, which would be too large to mention.</p>
+            <p>Theſe words before written, were ſpoken in the hear<g ref="char:EOLhyphen"/>ing of theſe witneſſes, and ſeveral others:
+<list>
+                  <item>
+                     <hi>Iſabell Yeamans.</hi>
+                  </item>
+                  <item>
+                     <hi>Bridget Pinder.</hi>
+                  </item>
+                  <item>
+                     <hi>Elizabeth Hopper.</hi>
+                  </item>
+                  <item>
+                     <hi>Sarah Fell.</hi>
+                  </item>
+                  <item>
+                     <hi>Suſanna Fell.</hi>
+                  </item>
+                  <item>
+                     <hi>Rachel Fell.</hi>
+                  </item>
+                  <item>
+                     <hi>Agnes Ormandy.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Brathwaite.</hi>
+                  </item>
+                  <item>
+                     <hi>Edw. Haiſtwhittle.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>ANd alſo dear Friends, this lives in our hearts as a Teſtimony concerning our dear Friend <hi>Robert Jeckell,</hi> that Gods power was with him, and his preſence did attend him, &amp; in much patience the Lord preſerved him, in the time of his Sickneſs, from day to day; and he was in perfect ſence and memory, all the time of his weakneſs; he often ſaying to us, Dear Friends, give me up, and weep not for me, but be willing to bear a part with me, for I am content with the Lords doings, (and leave me not, till you have ſeen all finiſhed con<g ref="char:EOLhyphen"/>cerning me;) which he has done to the praiſe of the Lord, and to the great comfort and refreſhment of our immortal Souls.</p>
+            <p>And he often declared, <hi>That he had no pain, but that
+<pb n="6" facs="tcp:43607:5"/>he ſaw how he went away by little and little, always lifting up his hands while he had ſtrength, praiſing the Lord.</hi>
+            </p>
+            <p>And this is our Teſtimony, that he is entred into the everlaſting fulneſs of Joy, where there is pleaſures for evermore.</p>
+            <p>For at the time of his Departure, <hi>Gods heavenly power</hi> did fill our hearts, to our great peace and ſatisfaction: Inſomuch that we can ſay, <hi>Bleſsed are the dead that die in the Lord, for they ſhall be had in everlasting remem<g ref="char:EOLhyphen"/>brance;</hi> for the Lord ſealed it upon our hearts, at the time of his ſeparation, <hi>that he had received <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is own with increaſe.</hi> — Praiſes be to the Lord for ever, who hath been our ſupport, and borne us up, in this our great Exerciſe; ſo that we can give encouragement, to all that may meet with the like tryal, not to be bowed down, under any Exerciſe which the Lord may call unto, nor let it into their heart, to queſtion why the Lord doth it; for he is able to ſanctifie every Exerciſe, and to make all things eaſie to them that love and fear his name; to whom be the glory of all for evermore.</p>
+            <closer>
+               <dateline>
+                  <hi>Swarthmore</hi> in <hi>Lancaſhire,</hi> 
+                  <date>14 d. 5 mo. 1676.</date>
+               </dateline>
+               <signed>Bridget Pinder. Elizabeth Hopper.</signed>
+            </closer>
+            <pb facs="tcp:43607:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
